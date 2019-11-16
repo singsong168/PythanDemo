@@ -1,8 +1,2 @@
-# Python course
-## Last modified:15-Nov-2019
-
-### Install
-
-* Python
-* pycharm
-* jupyter
+# stone
+python....test
