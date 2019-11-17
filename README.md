@@ -3,6 +3,6 @@
 
 ### Install
 
-* Python
+* Python "Stone"
 * pycharm
 * jupyter
