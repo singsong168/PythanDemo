@@ -1,8 +1,8 @@
 # Python course
-## Last modified:15-Nov-2019
+## Last modified:17-Nov-2019
 
 ### Install
 
-* Python "Stone"
+* Python "Stone Lee"
 * pycharm
 * jupyter
