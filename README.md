@@ -3,6 +3,6 @@
 
 ### Install stone
 
-* Python "Stone 11:15"
+* Python "Stone 11:23"
 * pycharm
 * jupyter
