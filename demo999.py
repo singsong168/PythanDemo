@@ -1,2 +1,2 @@
 print("please type someggg  999999999  ing:")
-print("please type someggg  11:08")
+print("please type someggg  11:12")
