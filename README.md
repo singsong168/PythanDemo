@@ -3,6 +3,6 @@
 
 ### Install
 
-* Python "Stone Lee"
+* Python "Stone 11:08"
 * pycharm
 * jupyter
