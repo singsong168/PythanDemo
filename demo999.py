@@ -1,1 +1,1 @@
-print("please type something:")
+print("please type sometddding:")
